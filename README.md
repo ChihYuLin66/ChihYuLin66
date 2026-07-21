@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ChihYuLin66
-- 👀 I’m interested in Web technology
-- 🧑‍💻 I'm currently a Backend Engineer
-- 🌱 I’m currently learning vue3,
+- 👋 Hi, I'm @ChihYuLin66 (Julen)
+- 💻 Full-stack engineer with 8+ years of experience — PHP/Laravel, Node.js, Vue.js
+- 🤖 Into AI-driven development — using Claude Code & Amazon Q to speed up building, testing, and shipping
+- 🧑‍💼 Recently led a 3-person dev team — task breakdown, code review, incident response
+- 🌏 2+ years fully remote, open to new backend / full-stack opportunities
+
 
 <!---
 - 📫 How to reach me ...
